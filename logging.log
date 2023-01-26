@@ -1,0 +1,30 @@
+2022-11-12 18:59:37 INFO  LaunchBrowser:36 - launching chrome browser
+2022-11-12 18:59:43 INFO  LaunchBrowser:40 - The browser is launched
+2022-11-12 18:59:43 DEBUG LaunchBrowser:42 - This is logger debug
+2022-11-12 18:59:43 ERROR LaunchBrowser:43 - This is logger error
+2022-11-12 18:59:43 TRACE LaunchBrowser:44 - This is logger trace
+2022-11-12 18:59:43 WARN  LaunchBrowser:45 - This is logger warning
+2022-11-12 19:04:24 INFO  LaunchBrowser:36 - launching chrome browser
+2022-11-12 19:04:32 INFO  LaunchBrowser:40 - The browser is launched
+2022-11-12 19:04:32 DEBUG LaunchBrowser:42 - This is logger debug
+2022-11-12 19:04:32 ERROR LaunchBrowser:43 - This is logger error
+2022-11-12 19:04:32 TRACE LaunchBrowser:44 - This is logger trace
+2022-11-12 19:04:32 WARN  LaunchBrowser:45 - This is logger warning
+2022-11-16 20:01:25 INFO  LaunchBrowser:43 - The browser is launched
+2022-11-16 20:17:34 INFO  LaunchBrowser:43 - The browser is launched
+2022-11-16 20:18:45 INFO  LaunchBrowser:43 - The browser is launched
+2022-11-16 20:19:32 INFO  LaunchBrowser:43 - The browser is launched
+2022-11-16 20:20:23 INFO  LaunchBrowser:43 - The browser is launched
+2022-11-16 20:22:28 INFO  LaunchBrowser:43 - The browser is launched
+2022-11-16 20:25:05 INFO  LaunchBrowser:43 - The browser is launched
+2022-11-16 20:27:33 INFO  LaunchBrowser:44 - The browser is launched
+2022-11-16 20:27:35 INFO  LaunchBrowser:44 - The browser is launched
+2022-11-16 20:28:26 INFO  LaunchBrowser:44 - The browser is launched
+2022-11-16 20:28:27 INFO  LaunchBrowser:44 - The browser is launched
+2022-11-16 20:29:15 INFO  LaunchBrowser:44 - The browser is launched
+2022-11-16 20:29:17 INFO  LaunchBrowser:44 - The browser is launched
+2022-12-02 19:01:52 INFO  IframeDemo:25 - The browser is launched
+2022-12-02 19:02:21 INFO  IframeDemo:25 - The browser is launched
+2022-12-02 20:39:52 INFO  IframeDemo:25 - The browser is launched
+2022-12-02 22:08:57 INFO  IframeDemo:25 - The browser is launched
+2022-12-02 22:09:51 INFO  AlertDemo:23 - The browser is launched
